@@ -1,3 +1,7 @@
+# requirable fork of axe-core
+https://github.com/dequelabs/axe-core
+
+/*
 # axe-core
 
 [![Join the chat at https://gitter.im/dequelabs/axe-core](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dequelabs/axe-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -84,4 +88,4 @@ Read the [documentation on contributing](CONTRIBUTING.md)
 
 ## Projects using axe-core
 
-[List of projects using axe-core](doc/projects.md)
+[List of projects using axe-core](doc/projects.md)*/
